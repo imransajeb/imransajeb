@@ -1,3 +1,10 @@
+### Hi there 👋, Imran Hossain
+#### Web developer and WordPress Expert 
+![Web developer and WordPress Expert ](https://www.elegantthemes.com/blog/wp-content/uploads/2016/02/wordpress-developers-header.png)
+
+I'm Imran Hossain from Bangladesh. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. You can check out my Twitter at https://twitter.com/imransajebdev or https://imrnasajeb.webflow.io
+
+Skills: HTML 5 / CSS 3/ JS / PHP / WORDPRESS/ REACT.JS
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/43618577/188711220-6c27bfe0-13f4-470f-840d-e448f0778964.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/43618577/188711197-7ec1dec9-fb0a-4cf0-b93d-8992c5c493bd.svg)
@@ -9,15 +16,6 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3037343035453f7374796c653d666c61742d737175617265266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/43618577/188711194-34398fbc-f10e-422d-89d9-01969b42de32.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666c61742d737175617265266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/43618577/188711199-40c6eb5d-0f99-4f92-82e7-f603429dea76.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666c61742d737175617265266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/43618577/188711204-a5adc143-bf49-418b-864f-beb1d4d89c1a.svg)
-
-### Hi there 👋, Imran Sajeb
-#### Web developer and WordPress Expert 
-![Web developer and WordPress Expert ](https://www.elegantthemes.com/blog/wp-content/uploads/2016/02/wordpress-developers-header.png)
-
-I'm Imran Hossain from Bangladesh. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. You can check out my Twitter at https://twitter.com/imransajebdev or https://imrnasajeb.webflow.io
-
-Skills: HTML 5 / CSS 3/ JS / PHP / WORDPRESS/ REACT.JS
-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imransajeb&show_icons=true&count_private=true)  
